@@ -30,7 +30,7 @@
     .disabled {
       opacity:0.3;
       cursor: default;
-      pointer-events: none
+      pointer-events: none;
     }
     .enabled {
       opacity:1.0;
